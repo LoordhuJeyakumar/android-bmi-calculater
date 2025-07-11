@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 Dark Theme Colors - Generated from Material Theme Builder or custom palette -->
+    <color name="md_theme_dark_primary">#D0BCFF</color>
+    <color name="md_theme_dark_onPrimary">#381E72</color>
+    <color name="md_theme_dark_primaryContainer">#4F378B</color>
+    <color name="md_theme_dark_onPrimaryContainer">#EADDFF</color>
+    <color name="md_theme_dark_secondary">#CCC2DC</color>
+    <color name="md_theme_dark_onSecondary">#332D41</color>
+    <color name="md_theme_dark_secondaryContainer">#4A4458</color>
+    <color name="md_theme_dark_onSecondaryContainer">#E8DEF8</color>
+    <color name="md_theme_dark_tertiary">#EFB8C8</color>
+    <color name="md_theme_dark_onTertiary">#492532</color>
+    <color name="md_theme_dark_tertiaryContainer">#633B48</color>
+    <color name="md_theme_dark_onTertiaryContainer">#FFD8E4</color>
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_onError">#690005</color>
+    <color name="md_theme_dark_errorContainer">#93000A</color>
+    <color name="md_theme_dark_onErrorContainer">#FFDAD6</color>
+    <color name="md_theme_dark_background">#1C1B1F</color>
+    <color name="md_theme_dark_onBackground">#E6E1E5</color>
+    <color name="md_theme_dark_surface">#1C1B1F</color>
+    <color name="md_theme_dark_onSurface">#E6E1E5</color>
+    <color name="md_theme_dark_surfaceVariant">#49454E</color>
+    <color name="md_theme_dark_onSurfaceVariant">#CAC4CF</color>
+    <color name="md_theme_dark_outline">#948F99</color>
+    <color name="md_theme_dark_inverseOnSurface">#313033</color>
+    <color name="md_theme_dark_inverseSurface">#E6E1E5</color>
+    <color name="md_theme_dark_inversePrimary">#6750A4</color>
+
+    <!-- Custom colors that might be explicitly used in layout or drawables for dark mode -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="custom_text_primary">@color/md_theme_dark_onSurface</color>
+    <color name="custom_card_stroke">@color/md_theme_dark_outline</color>
+    <color name="custom_result_background">@color/md_theme_dark_surfaceVariant</color>
+    <color name="custom_result_stroke">@color/md_theme_dark_outline</color>
+    <color name="custom_result_text">@color/md_theme_dark_onSurface</color>
+
+</resources>

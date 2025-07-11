@@ -1,0 +1,100 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.aar
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+build/
+.gradle/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/caches/
+.idea/runConfigurations/
+.idea/assetWizardSettings.xml # Android Studio 4.0+
+
+# Local configuration file (sdk location, etc)
+local.properties
+
+# Android Studio 3.x and earlier (if applicable)
+.idea/codeStyles/
+
+# Gradle files
+.gradle/
+gradle-wrapper.jar # If you want to commit the wrapper, remove this line
+!gradle-wrapper.jar.properties # Keep properties if committing wrapper
+.DS_Store # macOS specific
+
+# External native build files
+.externalNativeBuild/
+
+# Kotlin specific files
+.idea/kotlinc.xml
+.idea/compiler.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (if applicable)
+google-services.json # If you don't want to commit your Firebase config
+
+# Crashlytics (if applicable)
+crashlytics.properties
+
+# Android Profiler
+*.hprof
+
+# User-specific files
+.idea/misc.xml
+.idea/vcs.xml
+.idea/render.xml
+.idea/tasks.xml
+.idea/shelf/
+
+# Android Studio's generated test coverage files
+.idea/codeStyles/Project.xml # If you customize project code styles
+
+# Other IDE specific files
+*.iml
+.cxx/
+.navigation/
+
+# Android Studio's generated files for previewing layouts
+.idea/preview_info.xml
+
+# Gradle caches
+.gradle-cache/
+
+# Android Studio's local history
+.history/
+
+# Log files
+*.log
+
+# Windows specific files
+Thumbs.db
